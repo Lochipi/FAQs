@@ -16,3 +16,4 @@ This FAQs page has the following features:
 ## Code example
 
 Here's an example of how I've used HTML and CSS to create a question and its answer:
+![image](https://user-images.githubusercontent.com/108942025/235246176-a8b494c0-f7e9-4fae-b8e2-944931d5cf91.png)
